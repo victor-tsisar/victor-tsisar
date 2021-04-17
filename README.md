@@ -37,3 +37,32 @@ Have good day)<br>
 <summary>More Skills</summary>
 <br>
 </details> -->
+<!-- <br> -->
+
+<!-- 📌 <strong>Last Repositories</strong><br> -->
+<!--
+<a href="https://github.com/victor-tsisar/bikeShop">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=bikeShop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a><br><br>
+
+<a href="https://github.com/victor-tsisar/-barbershop-landing-">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=-barbershop-landing-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a><br><br>
+
+<a href="https://github.com/victor-tsisar/hungryPeople">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=hungryPeople&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a><br>
+
+<a href="https://github.com/victor-tsisar/consultant">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=consultant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a><br>
+<br> -->
+
+&#x1f4c8; <strong>GitHub Stats</strong><br>
+
+<a href="https://github.com/victor-tsisar">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-tsisar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a><br>
+<br>
+
+ [![Commits Badge](https://badges.pufler.dev/commits/monthly/victor-tsisar)](https://github.com/victor-tsisar) [![Repos Badge](https://badges.pufler.dev/repos/victor-tsisar)](https://github.com/victor-tsisar)
