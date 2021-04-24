@@ -14,10 +14,6 @@ async function main() {
         await fetch("https://api.github.com/users/victor-tsisar/repos")
     ).json();
 
-    // function compareReverseId(a, b) {
-    //     return b.id - a.id;
-    // }
-
     let arr = repos.sort(
         function (a, b) {
             return b.id - a.id;
@@ -31,7 +27,7 @@ async function main() {
             let itemReposLink = [];
 
             itemReposLink.innerHTML = `
-                    <a href="https://github.com/victor-tsisar/${data.name}"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=${data.name}&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br>
+                    <a href="https://github.com/victor-tsisar/${data.name}"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=${data.name}&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br>
                 `;
 
             return itemReposLink;
