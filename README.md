@@ -23,16 +23,36 @@ Have good day)<br>
 ![](https://img.shields.io/badge/Tools-NPM-inactive?style=plastic&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-inactive?style=plastic&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-inactive?style=plastic&logo=Figma&logoColor=white&color=4AB197)<br>
+<!-- ![](https://img.shields.io/badge/Code-React-inactive?style=plastic&logo=react&logoColor=white&color=4AB197) -->
+<!-- ![](https://img.shields.io/badge/Code-Python-inactive?style=plastic&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-inactive?style=plastic&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Django-inactive?style=plastic&logo=Django&logoColor=white&color=4AB197) -->
+<!-- ![](https://img.shields.io/badge/Tools-Docker-inactive?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-WordPress-inactive?style=flat&logo=WordPress&logoColor=white&color=4AB197)<br>
 
+![](https://img.shields.io/badge/Test-Jest-inactive?style=plastic&logo=jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Mocha-inactive?style=plastic&logo=Mocha&logoColor=white&color=4AB197)<br> 
+
+<details>
+<summary>More Skills</summary>
+<br>
+</details> -->
+<!-- <br> -->
 
 📌 <strong style="font-size:24px">Last Repositories</strong><br>
 <!-- Repos-LIST:START -->
 <div class="links">
 
-<a href="https://github.com/victor-tsisar/victor-tsisar"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=victor-tsisar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><a href="https://github.com/victor-tsisar/bikeShop"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=bikeShop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br>
+<a href="https://github.com/victor-tsisar/victor-tsisar"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=victor-tsisar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/bikeShop"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=bikeShop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/-barbershop-landing-"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=-barbershop-landing-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br>
 
 </div>
 <!-- Repos-LIST:END -->
+
+<!--
+<a href="https://github.com/victor-tsisar/bikeShop">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=bikeShop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a><br><br>
+-->
 <br> 
 
 &#x1f4c8; <strong style="font-size:24px">GitHub Stats</strong><br>
