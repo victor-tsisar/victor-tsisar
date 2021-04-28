@@ -43,7 +43,7 @@ Have good day)<br>
 <!-- Repos-LIST:START -->
 <div class="links">
 
-<a href="https://github.com/victor-tsisar/victor-tsisar"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=victor-tsisar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/bikeShop"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=bikeShop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/-barbershop-landing-"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=-barbershop-landing-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br>
+<a href="https://github.com/victor-tsisar/bitter"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=bitter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/victor-tsisar"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=victor-tsisar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/bikeShop"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=bikeShop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br>
 
 </div>
 <!-- Repos-LIST:END -->
