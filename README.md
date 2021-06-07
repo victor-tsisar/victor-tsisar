@@ -43,7 +43,7 @@ Have good day)<br>
 <!-- Repos-LIST:START -->
 <div class="links">
 
-<a href="https://github.com/victor-tsisar/weatherApp"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=weatherApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/tetris"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=tetris&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/tehnoSnab"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=tehnoSnab&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br>
+<a href="https://github.com/victor-tsisar/virtualKeyboard"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=virtualKeyboard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/weatherApp"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=weatherApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br><a href="https://github.com/victor-tsisar/tetris"><img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=victor-tsisar&repo=tetris&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a><br><br>
 
 </div>
 <!-- Repos-LIST:END -->
